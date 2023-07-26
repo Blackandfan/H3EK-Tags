@@ -1,5 +1,6 @@
 # Halo 2 Map Pack for Halo 3 Editing Kit
 Playable version (https://steamcommunity.com/sharedfiles/filedetails/?id=2949854805)
+
 You are free to use, remix, and adapt these files for non-commercial use. [Note that all usage is subject to the MCC EULA](https://www.halowaypoint.com/halo-the-master-chief-collection/eula)
 
 
