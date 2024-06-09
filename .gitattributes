@@ -1,0 +1,2 @@
+*.bitmap filter=lfs diff=lfs merge=lfs -text
+*.probestore filter=lfs diff=lfs merge=lfs -text

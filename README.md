@@ -1,8 +1,10 @@
 # Blackandfan`s H3EK tags
-Halo 2 Map Pack for Halo 3 (https://steamcommunity.com/sharedfiles/filedetails/?id=2949854805)
-Halo 2 Map Pack for Halo 3 ODST (https://steamcommunity.com/sharedfiles/filedetails/?id=3012913619)
+Halo 2 Map Pack for Halo 3 (https://steamcommunity.com/sharedfiles/filedetails/?id=2949854805)</br>
+Halo 2 Map Pack for Halo 3 ODST (https://steamcommunity.com/sharedfiles/filedetails/?id=3012913619)</br>
 
-You are free to use, remix, and adapt these files for non-commercial use. [Note that all usage is subject to the MCC EULA](https://www.halowaypoint.com/halo-the-master-chief-collection/eula)
+Note that this project is NOT open source. You are not granted any rights to use this content commercially, or for any projects outside of Halo: The Master Chief Collection. Please read the MCC EULA, MCC EULA FAQ, and Xbox EULA for additional information and context.
+
+You are free to use, remix, and adapt these files for non-commercial use within the constraints of Halo: The Master Chief Collection. You are not granted any rights to use this content commercially, or for any projects outside of Halo: The Master Chief Collection. [Note that all usage is subject to the MCC EULA](https://www.halowaypoint.com/halo-the-master-chief-collection/eula)
 
 
 Credits
@@ -30,3 +32,6 @@ https://www.nexusmods.com/halothemasterchiefcollection/mods/2244</br>
 
 **Vuthakral** - Spectre.</br>
 https://www.nexusmods.com/halothemasterchiefcollection/mods/1533</br>
+
+**DIGSITE** - H3 tags.</br>
+https://github.com/digsite/h3</br>

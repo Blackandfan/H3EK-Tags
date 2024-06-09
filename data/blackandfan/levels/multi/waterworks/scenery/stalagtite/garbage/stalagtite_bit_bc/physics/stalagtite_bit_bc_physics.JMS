@@ -1,0 +1,199 @@
+;### VERSION ###
+8213
+;	<8197-8213>
+
+;### NODES ###
+1
+;	<name>
+;	<parent node index>
+;	<default rotation <i,j,k,w>>
+;	<default translation <x,y,z>>
+
+;NODE 0
+frame root
+-1
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+0.0000000000	0.0000000000	0.0000000000
+
+;### MATERIALS ###
+1
+;	<name>
+;	<(Material Slot Index) LOD Permutation Region>
+
+;MATERIAL 0
+hard_terrain_stone
+(0) base root
+
+;### MARKERS ###
+0
+;	<name>
+;	<node index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### INSTANCE XREF PATHS ###
+0
+;	<path to asset file>
+;	<name>
+
+;### INSTANCE MARKERS ###
+0
+;	<name>
+;	<unique identifier>
+;	<path index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+
+;### VERTICES ###
+0
+;	<position>
+;	<normal>
+;	<node influences count>
+;		<index>
+;		<weight>
+;	<texture coordinate count>
+;		<texture coordinates <u,v>>
+;	<vertex color <r,g,b>>
+
+;### TRIANGLES ###
+0
+;	<material index>
+;	<vertex indices <v0,v1,v2>>
+
+;### SPHERES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### BOXES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<width (x)>
+;	<length (y)>
+;	<height (z)>
+
+;### CAPSULES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<height>
+;	<radius>
+
+;### CONVEX SHAPES ###
+1
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<vertex count>
+;	<...vertices>
+
+;CONVEX 0
+phy_bit_bc
+-1
+0
+0.4999999404	-0.5000000000	-0.5000000596	0.5000000000
+0.0000369702	6.2689199448	-4.2289824486
+9
+-41.7994499207	-224.0057373047	-48.0547218323
+13.3978118896	-224.0057373047	-51.3637390137
+-25.2092075348	91.1123809814	-16.7370357513
+69.4200057983	224.0057373047	-51.3637504578
+-32.8811416626	-135.9872131348	14.3306226730
+8.2240219116	-224.0057525635	8.1396856308
+-47.0397872925	181.2023620605	62.9139213562
+41.1178588867	224.0057373047	53.2022399902
+41.1209373474	16.8302307129	37.5844802856
+
+;### RAGDOLLS ###
+0
+;	<name>
+;	<attached index>
+;	<referenced index>
+;	<attached transform>
+;	<reference transform>
+;	<min twist>
+;	<max twist>
+;	<min cone>
+;	<max cone>
+;	<min plane>
+;	<max plane>
+;	<friction limit>
+
+;### HINGES ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min angle>
+;	<max angle>
+
+;### CAR WHEEL ###
+0
+;	<name>
+;	<chassis index>
+;	<wheel index>
+;	<chassis transform>
+;	<wheel transform>
+;	<suspension transform>
+;	<suspension min limit>
+;	<suspension max limit>
+;	<friction limit>
+;	<velocity>
+;	<gain>
+
+;### POINT TO POINT ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<constraint type>
+;	<x min limit>
+;	<x max limit>
+;	<y min limit>
+;	<y max limit>
+;	<z min limit>
+;	<z max limit>
+;	<spring length>
+
+;### PRISMATIC ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min limit>
+;	<max limit>
+
+;### BOUNDING SPHERE ###
+0
+;	<translation <x,y,z>>
+;	<radius>
+
+;### SKYLIGHT ###
+0
+;	<direction <x,y,z>>
+;	<radiant intensity <x,y,z>>
+;	<solid angle>
