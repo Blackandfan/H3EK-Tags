@@ -1,0 +1,238 @@
+;### VERSION ###
+8213
+;	<8197-8213>
+
+;### NODES ###
+5
+;	<name>
+;	<parent node index>
+;	<default rotation <i,j,k,w>>
+;	<default translation <x,y,z>>
+
+;NODE 0
+b_door_root
+-1
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+0.0000000000	0.0000005747	49.9999961853
+
+;NODE 1
+b_door_top
+0
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+0.0000000000	0.0000000000	54.9998207092
+
+;NODE 2
+b_door_bottom
+0
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+0.0000000000	0.0000000000	-45.0000572205
+
+;NODE 3
+b_lock_left
+2
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+0.0000000000	-15.0000000000	-9.9958267212
+
+;NODE 4
+b_lock_right
+2
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+0.0000000000	15.0000000000	-9.9958267212
+
+;### MATERIALS ###
+1
+;	<name>
+;	<(Material Slot Index) LOD Permutation Region>
+
+;MATERIAL 0
+dt tower_metal_dirty
+(2) L5 base door
+
+;### MARKERS ###
+0
+;	<name>
+;	<node index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### INSTANCE XREF PATHS ###
+0
+;	<path to asset file>
+;	<name>
+
+;### INSTANCE MARKERS ###
+0
+;	<name>
+;	<unique identifier>
+;	<path index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+
+;### VERTICES ###
+0
+;	<position>
+;	<normal>
+;	<node influences count>
+;		<index>
+;		<weight>
+;	<texture coordinate count>
+;		<texture coordinates <u,v>>
+;	<vertex color <r,g,b>>
+
+;### TRIANGLES ###
+0
+;	<material index>
+;	<vertex indices <v0,v1,v2>>
+
+;### SPHERES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### BOXES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<width (x)>
+;	<length (y)>
+;	<height (z)>
+
+;### CAPSULES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<height>
+;	<radius>
+
+;### CONVEX SHAPES ###
+2
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<vertex count>
+;	<...vertices>
+
+;CONVEX 0
+door_top
+1
+0
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+-0.0005352497	0.0007743239	-4.9999122620
+8
+-4.9711847305	-69.9949188232	10.0000000000
+4.9711847305	-69.9949188232	10.0000000000
+-4.9711847305	69.9949188232	10.0000000000
+4.9711847305	69.9949188232	10.0000000000
+-4.9711847305	-69.9949188232	-59.9956054688
+4.9711847305	-69.9949188232	-59.9956054688
+-4.9711847305	69.9949188232	-59.9956054688
+4.9711847305	69.9949188232	-59.9956054688
+
+;CONVEX 1
+door_botom
+2
+0
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+-0.0005352497	-0.2818298340	15.0021667480
+8
+-4.9711847305	-70.2775268555	20.0021648407
+4.9711847305	-70.2775268555	20.0021648407
+-4.9711847305	69.7123107910	20.0021648407
+4.9711847305	69.7123107910	20.0021648407
+-4.9711847305	-69.7123107910	-20.0021648407
+4.9711847305	-69.7123107910	-20.0021648407
+-4.9711847305	70.2775268555	-20.0021648407
+4.9711847305	70.2775268555	-20.0021648407
+
+;### RAGDOLLS ###
+0
+;	<name>
+;	<attached index>
+;	<referenced index>
+;	<attached transform>
+;	<reference transform>
+;	<min twist>
+;	<max twist>
+;	<min cone>
+;	<max cone>
+;	<min plane>
+;	<max plane>
+;	<friction limit>
+
+;### HINGES ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min angle>
+;	<max angle>
+
+;### CAR WHEEL ###
+0
+;	<name>
+;	<chassis index>
+;	<wheel index>
+;	<chassis transform>
+;	<wheel transform>
+;	<suspension transform>
+;	<suspension min limit>
+;	<suspension max limit>
+;	<friction limit>
+;	<velocity>
+;	<gain>
+
+;### POINT TO POINT ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<constraint type>
+;	<x min limit>
+;	<x max limit>
+;	<y min limit>
+;	<y max limit>
+;	<z min limit>
+;	<z max limit>
+;	<spring length>
+
+;### PRISMATIC ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min limit>
+;	<max limit>
+
+;### BOUNDING SPHERE ###
+0
+;	<translation <x,y,z>>
+;	<radius>
+
+;### SKYLIGHT ###
+0
+;	<direction <x,y,z>>
+;	<radiant intensity <x,y,z>>
+;	<solid angle>
