@@ -36,3 +36,4 @@ https://www.nexusmods.com/halothemasterchiefcollection/mods/2392
 https://www.nexusmods.com/halothemasterchiefcollection/mods/2029
 https://www.nexusmods.com/halothemasterchiefcollection/mods/2399
 https://www.nexusmods.com/halothemasterchiefcollection/mods/2389
+https://www.nexusmods.com/halothemasterchiefcollection/mods/2052
