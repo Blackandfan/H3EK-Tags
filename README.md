@@ -26,7 +26,6 @@ Maps
 	Timberland
 
 Following tags are required to compile the mp maps (or you will need to remove them from the palette)
-https://www.nexusmods.com/halothemasterchiefcollection/mods/2737
 https://www.nexusmods.com/halothemasterchiefcollection/mods/2244
 https://www.nexusmods.com/halothemasterchiefcollection/mods/2327
 https://www.nexusmods.com/halothemasterchiefcollection/mods/1533
@@ -36,4 +35,8 @@ https://www.nexusmods.com/halothemasterchiefcollection/mods/2392
 https://www.nexusmods.com/halothemasterchiefcollection/mods/2029
 https://www.nexusmods.com/halothemasterchiefcollection/mods/2399
 https://www.nexusmods.com/halothemasterchiefcollection/mods/2389
+
+Some tag use following assets (from zad, byz, TheGrimDealer and n8endo)
+https://www.nexusmods.com/halothemasterchiefcollection/mods/2737
 https://www.nexusmods.com/halothemasterchiefcollection/mods/2052
+https://www.nexusmods.com/halothemasterchiefcollection/mods/2714
